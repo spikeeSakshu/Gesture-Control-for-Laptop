@@ -1,0 +1,2 @@
+# Gesture-Control-for-Laptop
+Leap Motion which is the latest technology which enables us to control certain functions on our computer/Laptop by simply waving our hand in front of it. So basically I tried to develop a small prototype of it using an Arduino Uno board and 2 Ultrasonic sensors which calculates the distance between the sensor and your hand and perform specific tasks.     Sent with Mailtrack                 
